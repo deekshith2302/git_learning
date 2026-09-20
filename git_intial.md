@@ -618,4 +618,4 @@ git push
 
 Day 2 - selectively staging
 learning git diff 
-go
+goTesting branch switching with uncommitted changes
