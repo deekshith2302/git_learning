@@ -618,8 +618,7 @@ git push
 
 Day 2 - selectively staging
 learning git diff 
-<<<<<<< HEAD
+
 goTesting branch switching with uncommitted changes
-=======
 goDay 3 - feature branch practice
->>>>>>> feature-login
+goPayment branch change
